@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #6495EDFF;
+}
+
+header {
+    margin: 0 auto;
+    width: 431px;
+}
+
+img {
+    margin: 10px 0;
+    align-items: center;
+    width: 270px;
+    height: 100px;
+    pointer-events: none;
+    user-select: none;
+}
